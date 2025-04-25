@@ -11,14 +11,6 @@ To discover cross-domain patterns in mental health outcomes by combining structu
 
 
 
----
-
-###  `Suicide-Economy-and-Global-Events-A-Data-Story.pptx`  
-Our **30-slide presentation** used in the final video.  
-Includes:
-- Motivation and objectives
-- Visual findings and dashboards
-- Team roles and reflections
 
 ---
 
@@ -72,8 +64,7 @@ Includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/APDV_c_grp_assignment.git
-cd APDV_c_grp_assignment
+git clone https://github.com/hariramakrrish-ncirl/APDV_GRP_C_Project.git
 
 
 # Launch a notebook
