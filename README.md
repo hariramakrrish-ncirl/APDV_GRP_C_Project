@@ -1,4 +1,4 @@
-# Suicide, Economy & Global Events – A Data Fusion Project
+# Suicide, Economy & Global Events – A Data Story
 
 This repository contains the full submission for our **Analytics Programming & Data Visualisation (APDV)** group project.  
 It investigates the intersection of suicide rates, GDP per capita, and global media coverage using merged data from WHO, World Bank, and GDELT.
